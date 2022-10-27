@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Persona-App-Creation/static/css/main.1408b506.css",
+    "main.js": "/Persona-App-Creation/static/js/main.ddd8f831.js",
+    "index.html": "/Persona-App-Creation/index.html",
+    "main.1408b506.css.map": "/Persona-App-Creation/static/css/main.1408b506.css.map",
+    "main.ddd8f831.js.map": "/Persona-App-Creation/static/js/main.ddd8f831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1408b506.css",
+    "static/js/main.ddd8f831.js"
+  ]
+}
